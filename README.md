@@ -17,5 +17,5 @@
 - [Credentials](#credentials)
 
 <p align="center">
-  <img src="/Users/crop-off-drone/Downloads/Advanced Computer Vision TensorFlow E9VDAB99EWHV.jpg" alt="Machine Learning Logo" width="825">
+  <img src="Advanced Computer Vision TensorFlow E9VDAB99EWHV.jpg" alt="Machine Learning Logo" width="825">
 </p>
