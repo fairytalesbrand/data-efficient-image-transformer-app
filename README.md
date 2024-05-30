@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" alt="Data-Efficient Image Transformer Logo" width="250">
-</p>
+
 
 <h1 align="center"> Data-Efficient Image Transformer (DeiT) Application </h>
 
